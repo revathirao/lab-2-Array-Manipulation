@@ -1,3 +1,34 @@
+Overview
+This activity is a hands-on JavaScript exercise designed to teach array manipulation and dynamic rendering on a webpage
+Users will create a shopping list that can be updated in real time, learning how to add, remove, and filter items. The focus is on understanding array methods, conditional logic, and DOM manipulation.
+
+Features
+
+Add items to a shopping list dynamically.
+Remove the last item from the list.
+Search and filter items based on a user-specified term.
+Display the shopping list in the browser in real-time.
+Provide feedback when the list is empty.
+
+
+Challenges
+
+Updating the displayed list correctly whenever the underlying array changes.
+Implementing case-insensitive search and filter functionality.
+Maintaining clean and readable code while working with arrays and the DOM.
+
+Tools
+
+JavaScript 
+HTML 
+Browser Console / DevTools 
+
+How to use it
+Use gitbash  and Clone the repository to your local machine
+git clone https://github.com/revathirao/lab-2-Array-Manipulation
+
+Relection
+
 1.How did array methods like push() and filter() help you manipulate data in this activity?
 
 push(): It helped me add new items to the shopping cart easily. I didn’t have to create a new array or manually keep track of the items.

@@ -137,7 +137,7 @@ function displaycartList() {
     cartList.innerHTML = ""
 
     if (cart.length === 0) {
-        console.log("Shopping cart is emplty")
+        alert("Shopping cart is emplty")
     } else {
         for (let i = 0; i < cart.length; i++) {
             let listItem = document.createElement("li")
