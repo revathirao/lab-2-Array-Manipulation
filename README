@@ -1,0 +1,26 @@
+1.How did array methods like push() and filter() help you manipulate data in this activity?
+
+push(): It helped me add new items to the shopping cart easily. I didn’t have to create a new array or manually keep track of the items.
+
+filter(): It helped me search or get specific items from the array. For example, if I wanted to find items starting with a certain letter, I could do it easily without checking each item one by one.
+
+2.What challenges did you face when trying to filter and search for items in the array?
+
+Making sure the search is case-insensitive (e.g., “Apple” vs “apple”).
+
+Deciding whether to search by exact match or partial match (like typing “b” should show “Banana” and “Blueberry”).
+
+Confusion between using map(), filter(), and for loops for different tasks.
+Still i have problem using Map() so i did not useit here
+
+3.How would you modify this code to make it more efficient or user-friendly?1. 
+
+Prevent duplicates: Don’t allow adding the same item twice.
+
+Clear all items: Add a “Clear Cart” button.
+
+Better search: Add an input box to filter items as you type.
+
+Make website more accessible
+
+Use CSS styling
